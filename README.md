@@ -9,5 +9,4 @@ Track your expenses visually using a pie chart!
 ## Live Demo
 👉 [Click here to view](https://yourusername.github.io/budget-tracker/)
 
-## Screenshot
-![Pie Chart](screenshot.png)
+
